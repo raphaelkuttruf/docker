@@ -4,6 +4,9 @@ Docker Test
 Show images
 >docker images
 
+Show all containers
+>docker ps -a
+
 Container build
 >docker build . -t imagename
 
